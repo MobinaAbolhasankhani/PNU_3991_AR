@@ -4,4 +4,4 @@
 - [Resume](https://MobinaAbolhasankhani.github.io/resume/)
 - [Sop](https://MobinaAbolhasankhani.github.io/Sop/)
 - [GitHub](https://github.com/MobinaAbolhasankhani)
-- [Certificate](https://mobinaabolhasankhani.github.io/certificate/)
+- [Certificate](https://https://github.com/MobinaAbolhasankhani/certificate/)
